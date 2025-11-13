@@ -11,7 +11,7 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 ### Tutorial URL
 
 ### Category
-* [ ] 3D Renderer
+* [ X ] 3D Renderer
 * [ ] Augmented Reality
 * [ ] BitTorrent Client
 * [ ] Blockchain / Cryptocurrency
